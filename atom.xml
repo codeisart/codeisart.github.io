@@ -4,7 +4,7 @@
   <title><![CDATA[Doomkeeper.com]]></title>
   <link href="http://codeisart.github.io/atom.xml" rel="self"/>
   <link href="http://codeisart.github.io/"/>
-  <updated>2014-04-20T01:07:18-07:00</updated>
+  <updated>2014-04-20T01:11:13-07:00</updated>
   <id>http://codeisart.github.io/</id>
   <author>
     <name><![CDATA[Jimmy Smith]]></name>
@@ -42,20 +42,32 @@
 </ol>
 
 
-<p><code>javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-</code></p>
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+</pre></td><td class='code'><pre><code class='javascript'><span class='line'><span class="kd">var</span> <span class="nx">s</span> <span class="o">=</span> <span class="s2">&quot;JavaScript syntax highlighting&quot;</span><span class="p">;</span>
+</span><span class='line'><span class="nx">alert</span><span class="p">(</span><span class="nx">s</span><span class="p">);</span>
+</span></code></pre></td></tr></table></div></figure>
 
-<p><code>python
-s = "Python syntax highlighting"
-print s
-</code></p>
 
-<p><code>
-No language indicated, so no syntax highlighting.
-But let's throw in a &lt;b&gt;tag&lt;/b&gt;.
-</code></p>
+
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="n">s</span> <span class="o">=</span> <span class="s">&quot;Python syntax highlighting&quot;</span>
+</span><span class='line'><span class="k">print</span> <span class="n">s</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="n">No</span> <span class="n">language</span> <span class="n">indicated</span><span class="p">,</span> <span class="n">so</span> <span class="n">no</span> <span class="n">syntax</span> <span class="n">highlighting</span><span class="o">.</span>
+</span><span class='line'><span class="n">But</span> <span class="n">let</span><span class="s">&#39;s throw in a &lt;b&gt;tag&lt;/b&gt;.</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+
 ]]></content>
   </entry>
   
