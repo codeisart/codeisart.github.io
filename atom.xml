@@ -4,7 +4,7 @@
   <title><![CDATA[Doomkeeper.com]]></title>
   <link href="http://codeisart.github.io/atom.xml" rel="self"/>
   <link href="http://codeisart.github.io/"/>
-  <updated>2014-04-19T18:19:43-07:00</updated>
+  <updated>2014-04-20T00:21:00-07:00</updated>
   <id>http://codeisart.github.io/</id>
   <author>
     <name><![CDATA[Jimmy Smith]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Converted Blog to Octopress]]></title>
+    <link href="http://codeisart.github.io/blog/2014/04/19/converted-blog-to-octopress/"/>
+    <updated>2014-04-19T23:05:17-07:00</updated>
+    <id>http://codeisart.github.io/blog/2014/04/19/converted-blog-to-octopress</id>
+    <content type="html"><![CDATA[<p><a href="http://www.google.com">I&rsquo;m an inline-style link</a></p>
+]]></content>
+  </entry>
   
 </feed>
