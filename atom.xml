@@ -4,7 +4,7 @@
   <title><![CDATA[Doomkeeper.com]]></title>
   <link href="http://codeisart.github.io/atom.xml" rel="self"/>
   <link href="http://codeisart.github.io/"/>
-  <updated>2014-04-20T00:33:15-07:00</updated>
+  <updated>2014-04-20T00:39:59-07:00</updated>
   <id>http://codeisart.github.io/</id>
   <author>
     <name><![CDATA[Jimmy Smith]]></name>
@@ -35,9 +35,12 @@
 ..<em> thing2
 ..</em> thing3</p>
 
-<p>1.a
-2.b
-3.c</p>
+<ol>
+<li>a</li>
+<li>b</li>
+<li>c</li>
+</ol>
+
 
 <p><code>javascript
 var s = "JavaScript syntax highlighting";
