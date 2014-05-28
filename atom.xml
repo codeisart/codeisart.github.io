@@ -4,7 +4,7 @@
   <title><![CDATA[Doomkeeper.com]]></title>
   <link href="http://codeisart.github.io/atom.xml" rel="self"/>
   <link href="http://codeisart.github.io/"/>
-  <updated>2014-04-20T01:11:13-07:00</updated>
+  <updated>2014-05-27T20:32:34-07:00</updated>
   <id>http://codeisart.github.io/</id>
   <author>
     <name><![CDATA[Jimmy Smith]]></name>
@@ -18,56 +18,21 @@
     <link href="http://codeisart.github.io/blog/2014/04/19/converted-blog-to-octopress/"/>
     <updated>2014-04-19T23:05:17-07:00</updated>
     <id>http://codeisart.github.io/blog/2014/04/19/converted-blog-to-octopress</id>
-    <content type="html"><![CDATA[<h1>Balls</h1>
-
-<h2>Crap</h2>
-
-<h3>OJ</h3>
-
-<p><a href="http://www.google.com">I&rsquo;m an inline-style link</a></p>
-
-<p>This is a sentence with some <em>emphasis</em> And some <em>underscores</em></p>
-
-<p><del>Scratch through</del></p>
-
-<p>..<em> unorderered list
-..</em> thing1
-..<em> thing2
-..</em> thing3</p>
+    <content type="html"><![CDATA[<p><img src="http://codeisart.github.io/images/octopress.png" title="Octopress" alt="Octopress Rocks" />
+Ok quick update to say that I&rsquo;ve finally <em>switched</em> over the blog to <a href="http://octopress.org">Octopress</a>. It&rsquo;s been a long time coming because I&rsquo;ve been busy with lots of things, blah, blah.</p>
 
 <ol>
-<li>a</li>
-<li>b</li>
-<li>c</li>
+<li>Buying a house.</li>
+<li>Becoming Fulltime at Microsoft as a Senior SDE</li>
+<li>Doing a bunch of travelling.</li>
 </ol>
 
 
-<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-</pre></td><td class='code'><pre><code class='javascript'><span class='line'><span class="kd">var</span> <span class="nx">s</span> <span class="o">=</span> <span class="s2">&quot;JavaScript syntax highlighting&quot;</span><span class="p">;</span>
-</span><span class='line'><span class="nx">alert</span><span class="p">(</span><span class="nx">s</span><span class="p">);</span>
-</span></code></pre></td></tr></table></div></figure>
+<h2>Why?</h2>
 
+<p>One of the <em>big</em> reasons being that I&rsquo;ve been somewhat nagged, (although <a href="http://buffered.io">he&rsquo;ll</a> never admit to it), that I should move to a statically hosted site. All the cool kids are doing it so why not? Well, mainly procratistation and lack significant motivation. Well a reather <em>large</em> motivator came in the form of a site I had to host for a friends wedding.</p>
 
-
-
-<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="n">s</span> <span class="o">=</span> <span class="s">&quot;Python syntax highlighting&quot;</span>
-</span><span class='line'><span class="k">print</span> <span class="n">s</span>
-</span></code></pre></td></tr></table></div></figure>
-
-
-
-
-<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="n">No</span> <span class="n">language</span> <span class="n">indicated</span><span class="p">,</span> <span class="n">so</span> <span class="n">no</span> <span class="n">syntax</span> <span class="n">highlighting</span><span class="o">.</span>
-</span><span class='line'><span class="n">But</span> <span class="n">let</span><span class="s">&#39;s throw in a &lt;b&gt;tag&lt;/b&gt;.</span>
-</span></code></pre></td></tr></table></div></figure>
-
-
-
+<p>I discovered the somewhat unglamerous side of things when a site I hosted was hacked and started injecting malware to people. PHP seemed to be a inherently insecure framework; a metaphorical swiss cheese of vulnerabilities that was near impossible to stay on top off. As a admiistrator I could never really sleep well at night knowing that it was essentially a shoot gallery for wanna be hackers (script kiddies). The logs very literally full of SQL injection attempts and another Wordpress/PHP style attacks.</p>
 ]]></content>
   </entry>
   
