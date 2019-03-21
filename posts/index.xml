@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on doomkeeper</title>
-    <link>http://codeisart.github.io/posts/</link>
+    <link>http://doomkeeper.com/posts/</link>
     <description>Recent content in Posts on doomkeeper</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Mar 2019 23:00:13 -0700</lastBuildDate>
     
-	<atom:link href="http://codeisart.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://doomkeeper.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A New Blog</title>
-      <link>http://codeisart.github.io/posts/newblog/</link>
+      <link>http://doomkeeper.com/posts/newblog/</link>
       <pubDate>Wed, 20 Mar 2019 23:00:13 -0700</pubDate>
       
-      <guid>http://codeisart.github.io/posts/newblog/</guid>
+      <guid>http://doomkeeper.com/posts/newblog/</guid>
       <description>Decided to try hugo out for a bit of fun and build a simple blog. My old web presence, was Wordpress based and seemed to constantly require patching. So here&amp;rsquo;s an attempt to get that going again.</description>
     </item>
     

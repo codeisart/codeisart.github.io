@@ -3,28 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://codeisart.github.io/posts/newblog/</loc>
+    <loc>http://doomkeeper.com/posts/newblog/</loc>
     <lastmod>2019-03-20T23:00:13-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://codeisart.github.io/categories/</loc>
+    <loc>http://doomkeeper.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://codeisart.github.io/posts/</loc>
+    <loc>http://doomkeeper.com/posts/</loc>
     <lastmod>2019-03-20T23:00:13-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://codeisart.github.io/tags/</loc>
+    <loc>http://doomkeeper.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://codeisart.github.io/</loc>
+    <loc>http://doomkeeper.com/</loc>
     <lastmod>2019-03-20T23:00:13-07:00</lastmod>
     <priority>0</priority>
   </url>
