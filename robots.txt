@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://codeisart.github.io/sitemap.xml 
