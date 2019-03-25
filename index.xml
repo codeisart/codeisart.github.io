@@ -12,12 +12,14 @@
     
     
     <item>
-      <title>A New Blog</title>
+      <title>New Blog</title>
       <link>http://doomkeeper.com/posts/newblog/</link>
       <pubDate>Wed, 20 Mar 2019 23:00:13 -0700</pubDate>
       
       <guid>http://doomkeeper.com/posts/newblog/</guid>
-      <description>Decided to try hugo out for a bit of fun and build a simple blog. My old web presence, was Wordpress based and seemed to constantly require patching. So here&amp;rsquo;s an attempt to get that going again.</description>
+      <description>After a long hiatus, I’ve decided to restart my blog.
+My old web presence was proving a bit old and dusty. Having finally realized the future was kicking Wordpress well and truly to the curb, I had started down a path of Octopress. This however ended shortly after it began, so finally I’ve deleted the old pages and started a fresh. It’s only taken 7 years.
+I’d been using HUGO at home for our internal “landing” pages, so I thought it was high time that it was used for something a bit more public facing.</description>
     </item>
     
   </channel>
